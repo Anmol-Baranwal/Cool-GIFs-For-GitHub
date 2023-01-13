@@ -52,22 +52,27 @@
 <br><br> 
   
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Funny Gifs ---------------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-## Funny GIFs
-
-
-<br><br> 
-  
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Extra Value Added --------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 ## Extra Value Added
+<img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/212284108-4a5dd317-98a7-42bc-8428-a65b2fa69de5.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/212284111-6064b2c7-6f97-432d-948d-4dfa608a983a.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/212284160-e672ad2e-c8ff-4e9c-8b44-21e9db0f7492.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/212284164-662b26f5-a2e4-49cb-b675-4af56e609afa.gif" width="300">
 
 
 <br><br> 
+
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Cool Avatars for GitHub Profile ------------------------------------------------------------------------------------------------------------------- -->
