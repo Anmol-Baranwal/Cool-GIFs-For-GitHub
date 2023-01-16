@@ -132,15 +132,17 @@
 <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="500">
 <br><br>
 
+- Typing
+<img src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif" width="500">
+<br><br>
+
 - Busy Work
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500">
 <br><br>
 
-- Typing in Peace
+- Coding in Peace
 <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="500">
 <br><br>
-
-
 
 
 <br><br> 
