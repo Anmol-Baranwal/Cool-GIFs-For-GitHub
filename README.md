@@ -64,6 +64,9 @@
 
 ## Work Culture
 
+- Old Man Working on Laptop
+<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200">
+<br><br>
 
 
 <br><br> 
@@ -75,55 +78,64 @@
 ## Extra Value Added
 
 - Let's Catch
-<img src="https://user-images.githubusercontent.com/74038190/212744291-c2ac8df6-4f69-47e2-be86-57c9cdea8bc1.gif" width="400">
-<br>
+<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
+<br><br>
 
 - Pacman
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-<br>
+<br><br>
 
 - Code the cool stuff
 <img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="200">
-<br>
+<br><br>
 
 - Skills
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-<br>
+<br><br>
 
 - Unproductive all day
 <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="400">
-<br>
+<br><br>
 
 - Fading Line
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
-<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br><br>
 
 - Cool Haha
 <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="200">
-<br>
+<br><br>
 
 - Gradient Line
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
-<br>
+<br><br>
 
 - Cat & Mouse
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
+<br><br>
 
 - Dinosaur Game
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
-<br>
+<br><br>
 
-- Coffee while coding
+- Coffee while working
 <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="400">
-<br>
+<br><br>
 
 - Ultra Fast typing Cat
 <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="400">
-<br>
+<br><br>
+
+- I am bored
+<img src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif" width="300">
+<br><br>
 
 - Mind
 <img src="https://user-images.githubusercontent.com/74038190/212284164-662b26f5-a2e4-49cb-b675-4af56e609afa.gif" width="300">
-<br>
+<br><br>
+
+- Sketch Working Hard
+<img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif" width="300">
+<br><br>
 
 <br><br> 
 
@@ -131,8 +143,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284160-e672ad2e-c8ff-4e9c-8b44-21e9db0f7492.gif" width="300">
 <img src="https://user-images.githubusercontent.com/74038190/212284108-4a5dd317-98a7-42bc-8428-a65b2fa69de5.gif" width="40"> 
 -->
-
-![tenor](https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif)
 
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
