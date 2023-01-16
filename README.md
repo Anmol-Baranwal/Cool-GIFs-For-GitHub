@@ -62,7 +62,7 @@
 <!--- -- Work Culture -------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-## Work Culture
+## Work Culture (Awesome UI)
 
 - Old Man Working on Laptop
 <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200">
@@ -136,6 +136,11 @@
 - Sketch Working Hard
 <img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif" width="300">
 <br><br>
+
+- Eat Sleep Code Repeat
+<img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width="300">
+<br><br>
+
 
 <br><br> 
 
