@@ -140,6 +140,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300">
 <br><br>
 
+- Animated Working Man
+<img src="https://user-images.githubusercontent.com/74038190/212897707-026174ef-f09d-4d41-a4bb-c7266f5420b0.gif" width="400">
+<br><br>
+
 - Busy Work
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500">
 <br><br>
@@ -221,8 +225,16 @@
 <img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width="300">
 <br><br>
 
+- Error 404
+<img src="https://user-images.githubusercontent.com/74038190/212897597-fd4c1add-ec1c-4669-9a8d-c37aaaf19044.gif" width="300">
+<br><br>
+
 - I wonder
 <img src="https://user-images.githubusercontent.com/74038190/212896001-c2105e17-255f-4816-b348-8cfddfe2a915.gif" width="300">
+<br><br>
+
+- How my code works?
+<img src="https://user-images.githubusercontent.com/74038190/212897782-96581536-54a0-4b87-87b4-5e55f95e8a8b.gif" width="300">
 <br><br>
 
 
