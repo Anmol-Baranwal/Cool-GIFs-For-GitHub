@@ -84,10 +84,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
 <br><br>
 
-- Multiprogramming Environment
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
-<br><br>
-
 - Automatic Typing
 <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="500">
 <br><br>
@@ -102,10 +98,6 @@
 
 - Designer Vs Developer 2.0
 <img src="https://user-images.githubusercontent.com/74038190/212898792-2844553a-e201-4eec-a5e2-3b0f532712e6.gif" width="200">
-<br><br>
-
-- Coding Vibe
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
 <br><br>
 
 - Coding Vibe
@@ -146,6 +138,10 @@
 
 - Animated Working Man
 <img src="https://user-images.githubusercontent.com/74038190/212897707-026174ef-f09d-4d41-a4bb-c7266f5420b0.gif" width="400">
+<br><br>
+
+- Working on Laptop Illustration
+<img src="https://user-images.githubusercontent.com/74038190/212900420-11d6daeb-4bcd-474f-ad58-86c47d25b541.gif" width="400">
 <br><br>
 
 - Busy Work
