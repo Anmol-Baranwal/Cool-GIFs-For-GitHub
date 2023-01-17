@@ -221,20 +221,21 @@
 <img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width="300">
 <br><br>
 
+- I wonder
+<img src="https://user-images.githubusercontent.com/74038190/212896001-c2105e17-255f-4816-b348-8cfddfe2a915.gif" width="300">
+<br><br>
+
 
 <br><br> 
-
-<!--  Not clear resolution
-<img src="https://user-images.githubusercontent.com/74038190/212284160-e672ad2e-c8ff-4e9c-8b44-21e9db0f7492.gif" width="300">
-<img src="https://user-images.githubusercontent.com/74038190/212284108-4a5dd317-98a7-42bc-8428-a65b2fa69de5.gif" width="40"> 
--->
 
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Cool Avatars for GitHub Profile ------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-## Cool Avatars for GitHub Profile
+<div align="center">
+
+# 🤝 &nbsp; Cool Avatars for GitHub Profile &nbsp; 🤝
 
 <img src="https://user-images.githubusercontent.com/74038190/212259347-a485318e-d949-4b9f-9d38-35d0a566deb1.png" width="200" /><img src="https://user-images.githubusercontent.com/74038190/212262208-6e0cbfcb-1965-4b5e-9625-fee0a5d172d3.jpg" width="200" />
 <img src="https://user-images.githubusercontent.com/74038190/212259363-d40b7a35-375b-470c-b4e2-2d9cb8ac706c.png" width="200" />
