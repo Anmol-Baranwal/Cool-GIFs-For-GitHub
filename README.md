@@ -148,6 +148,18 @@
 <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400">
 <br><br>
 
+- Overflowing Visuals
+<img src="https://user-images.githubusercontent.com/74038190/213760686-dcb02031-af46-4b9d-a6b1-9c367a379d9f.gif" width="400">
+<br><br>
+
+- Coworkers fixing bugs
+<img src="https://user-images.githubusercontent.com/74038190/213760697-1dc03683-ba49-44f2-985e-95fd5ec22d3f.gif" width="400">
+<br><br>
+
+- She Codes
+<img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="400">
+<br><br>
+
 - Working on Laptop Illustration
 <img src="https://user-images.githubusercontent.com/74038190/212900420-11d6daeb-4bcd-474f-ad58-86c47d25b541.gif" width="400">
 <br><br>
