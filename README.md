@@ -153,6 +153,7 @@
 <br><br>
 
 
+
 <br><br> 
   
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -227,6 +228,14 @@
 
 - Error 404
 <img src="https://user-images.githubusercontent.com/74038190/212897597-fd4c1add-ec1c-4669-9a8d-c37aaaf19044.gif" width="300">
+<br><br>
+
+- 0-1 Binary Code
+<img src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif" width="300">
+<br><br>
+
+- It's Not a bug! It's a Feature!!
+<img src="https://user-images.githubusercontent.com/74038190/213760482-f7fa7b7b-7d6c-4063-bdd7-4483749948ad.gif" width="300">
 <br><br>
 
 - I wonder
