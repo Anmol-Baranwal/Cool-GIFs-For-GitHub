@@ -62,7 +62,7 @@
 <!--- -- Work Culture -------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-## Work Culture (Awesome UI)
+## Work Culture (Awesome Visual)
 
 - Old Man Working on Laptop
 <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200">
@@ -138,6 +138,14 @@
 
 - Animated Working Man
 <img src="https://user-images.githubusercontent.com/74038190/212897707-026174ef-f09d-4d41-a4bb-c7266f5420b0.gif" width="400">
+<br><br>
+
+- Ultra Confident Coder
+<img src="https://user-images.githubusercontent.com/74038190/213760710-201a57d2-95f1-45c7-b910-44faf209d2f8.gif" width="300">
+<br><br>
+
+- Hi There !!
+<img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400">
 <br><br>
 
 - Working on Laptop Illustration
