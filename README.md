@@ -71,6 +71,10 @@
 
 ## Work Culture (Awesome Visual)
 
+- Multitasking
+<img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="200">
+<br><br>
+
 - Old Man Working on Laptop
 <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200">
 <br><br>
@@ -179,6 +183,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="500">
 <br><br>
 
+- JavaScript is the Boss
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+<br><br>
 
 
 <br><br> 
