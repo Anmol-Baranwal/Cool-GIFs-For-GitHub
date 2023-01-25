@@ -292,6 +292,14 @@
 <img src="https://user-images.githubusercontent.com/74038190/214375117-d7fc8261-fff2-4b2a-826f-b917ff005e54.gif" width="300">
 <br><br>
 
+- Handshake
+<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="200">
+<br><br>
+
+- Wave
+<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="200">
+<br><br>
+
 - I wonder
 <img src="https://user-images.githubusercontent.com/74038190/212896001-c2105e17-255f-4816-b348-8cfddfe2a915.gif" width="300">
 <br><br>
