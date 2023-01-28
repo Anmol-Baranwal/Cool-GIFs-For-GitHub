@@ -179,6 +179,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500">
 <br><br>
 
+- Work with Coffee
+<img src="https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif" width="500">
+<br><br>
+
 - Coding in Peace
 <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="500">
 <br><br>
@@ -318,6 +322,10 @@
 
 - How my code works?
 <img src="https://user-images.githubusercontent.com/74038190/212897782-96581536-54a0-4b87-87b4-5e55f95e8a8b.gif" width="300">
+<br><br>
+
+- Barcode Generator
+<img src="https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif" width="200">
 <br><br>
 
 - Peace with oneself
