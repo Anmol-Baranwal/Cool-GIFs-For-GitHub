@@ -117,7 +117,7 @@
 <!--- -- Work Culture -------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-## Work Culture (Awesome Visual)
+## Work Culture (HD Visuals)
 
 - Multitasking
 <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="200">
@@ -217,6 +217,14 @@
 
 - She Codes
 <img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="400">
+<br><br>
+
+- Working girl with 6 hands
+<img src="https://user-images.githubusercontent.com/74038190/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif" width="400">
+<br><br>
+
+- Sweet smile
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400">
 <br><br>
 
 - Working on Laptop Illustration
@@ -414,6 +422,10 @@
 
 - I'm Coding
 <img src="https://user-images.githubusercontent.com/74038190/214375120-7b484054-1907-4c4d-96d9-eb76cd91ee49.gif" width="300">
+<br><br>
+
+- I skip documentation
+<img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" width="300">
 <br><br>
 
 <br><br> 
