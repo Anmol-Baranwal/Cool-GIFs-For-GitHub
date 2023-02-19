@@ -167,6 +167,14 @@
 <img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" width="500">
 <br><br>
 
+- Tech Stack floating
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
+<br><br>
+
+- Browsing
+<img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="500">
+<br><br>
+
 - Let's Do It
 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="500">
 <br><br>
@@ -441,6 +449,7 @@
 <br><br>
 
 <br><br> 
+
 
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
