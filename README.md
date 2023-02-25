@@ -36,7 +36,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="100">
 </div>
-<br><br>     
+<br><br>    
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- WOW Emojis ---------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -193,6 +193,30 @@
 
 - Coworking
 <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="500">
+<br><br>
+
+- Discord Logo Animation
+<img src="https://user-images.githubusercontent.com/74038190/221352968-ac6f7b24-ed9a-4d00-a045-710caa6fc834.gif" width="400">
+<br><br>
+
+- Chat with her
+<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400">
+<br><br>
+
+- Opening Laptop shade Animation
+<img src="https://user-images.githubusercontent.com/74038190/221352982-8db913c4-1ba0-4674-9fb7-cc2cd71b0443.gif" width="400">
+<br><br>
+
+- 3d Cool Statistics
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="400">
+<br><br>
+
+- Mr Robot
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
+<br><br>
+
+- All in One
+<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="400">
 <br><br>
 
 - Typing
