@@ -409,6 +409,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
 <br><br>
 
+- Keep Moving Forward
+<img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="400">
+<br><br>
+
 - Friday
 <img src="https://user-images.githubusercontent.com/74038190/230733742-d1aa194d-862c-49a5-af76-e610921d83e7.gif" width="400">
 <br><br>
