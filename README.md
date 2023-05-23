@@ -253,7 +253,7 @@
 <br><br>
 
 - Opening Laptop shade Animation
-<img src="https://user-images.githubusercontent.com/74038190/221352982-8db913c4-1ba0-4674-9fb7-cc2cd71b0443.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190h/221352982-8db913c4-1ba0-4674-9fb7-cc2cd71b0443.gif" width="400">
 <br><br>
 
 - 3d Cool Statistics
@@ -441,6 +441,14 @@
 
 - Keep Moving Forward
 <img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="400">
+<br><br>
+
+- Maxtocat working hard
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/366d67af-a5ad-4c0a-bf14-1bebfed20a3a" width="400">
+<br><br>
+
+- Chill Floating
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0" width="400">
 <br><br>
 
 - Friday
