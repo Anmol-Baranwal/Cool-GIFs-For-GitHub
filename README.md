@@ -432,6 +432,10 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/31edfb91-6645-4b85-b273-b5280b342e0b" width="400">
 <br><br>
 
+- My Email
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/19b4ef1d-2035-4e6f-8484-8bd79d604dc9" width="400">
+<br><br>
+
 - Fading Line
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 <br><br>
@@ -513,6 +517,10 @@
 
 - Ultra Fast typing Cat
 <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="400">
+<br><br>
+
+- Everything's a copy of a copy of a copy
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f606466f-4cc9-4cb1-8ad6-80a7eeea9e7e" width="400">
 <br><br>
 
 - Junior Developer After Serious Mistake
@@ -831,6 +839,8 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/33983d9b-6614-4eb9-8185-408092eac0a0" width="160" />
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/5a0ca158-4df4-4e05-b510-a37b228d4f08" width="160" />
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2e0e9fbd-96f5-4ddb-b198-911c8f3d1ef1" width="160" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9ffcea75-ad3b-4ff9-b8b0-1ee4661ad4a7" width="160" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a28188da-2b7d-4d24-9381-2ce9b274d379" width="160" />
 <br><br> 
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
