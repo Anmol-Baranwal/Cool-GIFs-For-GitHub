@@ -511,6 +511,14 @@
 <img src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" width="200">
 <br><br>
 
+- Tappity
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0f974935-dad2-4dc1-8146-5159dbb6d3e8" width="500">
+<br><br>
+
+- Roll & Work
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6c1e9fe7-c8d3-4db6-a7cb-092170a81f66" width="500">
+<br><br>
+
 - Mind
 <img src="https://user-images.githubusercontent.com/74038190/212284164-662b26f5-a2e4-49cb-b675-4af56e609afa.gif" width="300">
 <br><br>
