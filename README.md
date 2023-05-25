@@ -551,12 +551,24 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6c1e9fe7-c8d3-4db6-a7cb-092170a81f66" width="300">
 <br><br>
 
+- I have no idea what I'm doing
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87360948-7b92-4852-91f7-ff62ddb8fcd4" width="300">
+<br><br>
+
+- Laptop Punching user
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/5f508f05-88cd-4b49-97ed-c7841874ccfc" width="300">
+<br><br>
+
 - Mind
 <img src="https://user-images.githubusercontent.com/74038190/212284164-662b26f5-a2e4-49cb-b675-4af56e609afa.gif" width="300">
 <br><br>
 
 - Infinite Loop
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e8d30426-b3c1-4ae9-9bf1-15880afd93fd" width="300">
+<br><br>
+
+- Infinite Mobile Loop
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2f72c61a-5932-491f-b3ba-d3b3470c00cb" width="300">
 <br><br>
 
 - So much work
