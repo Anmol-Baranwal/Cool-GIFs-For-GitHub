@@ -567,6 +567,14 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08edbce8-99d3-4ad2-9d04-7e0cd1f02eac" width="300">
 <br><br>
 
+- Hello Wave
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a762dc06-3a4c-432e-8679-a99fe8a433b7" width="300">
+<br><br>
+
+- Skating
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e1909120-a670-4b49-91b2-e95a01d0c7b8" width="300">
+<br><br>
+
 - Work pressure!!
 <img src="https://user-images.githubusercontent.com/74038190/214375117-d7fc8261-fff2-4b2a-826f-b917ff005e54.gif" width="300">
 <br><br>
