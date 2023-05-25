@@ -228,6 +228,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="500">
 <br><br>
 
+- Trial and Error
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3" width="300">
+<br><br>
+
 - Let's Do It
 <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="500">
 <br><br>
@@ -298,6 +302,10 @@
 
 - Hi There !!
 <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400">
+<br><br>
+
+- Casual stuff
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/17f8a48d-4ab3-4e58-bd5a-bf181f4c3d90" width="300">
 <br><br>
 
 - Overflowing Visuals
@@ -683,6 +691,14 @@
 <img src="https://user-images.githubusercontent.com/74038190/214375120-7b484054-1907-4c4d-96d9-eb76cd91ee49.gif" width="300">
 <br><br>
 
+- Creepy eyes
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/65d3d964-e2f3-4939-b4a7-559e0380197f" width="300">
+<br><br>
+
+- GitHub Star
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0d554abf-6a41-4856-be43-5dbb4df0915b" width="300">
+<br><br>
+
 - Dangerous Root Deletion
 <img src="https://user-images.githubusercontent.com/74038190/229223143-574f6669-d12e-47b4-8d51-f7083e3dc399.gif" width="300">
 <br><br>
@@ -777,7 +793,8 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/53fc5e35-28f2-4663-913c-d9a255c0918d" width="160" />
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6e08afa6-3618-4c9e-8c1c-0ed8f4262bd3" width="160" />
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/33983d9b-6614-4eb9-8185-408092eac0a0" width="160" />
-
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/5a0ca158-4df4-4e05-b510-a37b228d4f08" width="160" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2e0e9fbd-96f5-4ddb-b198-911c8f3d1ef1" width="160" />
 <br><br> 
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
