@@ -524,11 +524,11 @@
 <br><br>
 
 - Tappity
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0f974935-dad2-4dc1-8146-5159dbb6d3e8" width="500">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0f974935-dad2-4dc1-8146-5159dbb6d3e8" width="300">
 <br><br>
 
 - Roll & Work
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6c1e9fe7-c8d3-4db6-a7cb-092170a81f66" width="500">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6c1e9fe7-c8d3-4db6-a7cb-092170a81f66" width="300">
 <br><br>
 
 - Mind
@@ -539,8 +539,20 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e8d30426-b3c1-4ae9-9bf1-15880afd93fd" width="300">
 <br><br>
 
+- So much work
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/45ded936-e675-47cd-8457-1f50b4e16efc" width="200">
+<br><br>
+
 - Sketch Working Hard
 <img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif" width="300">
+<br><br>
+
+- Animated Fun
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/97626055-a2f8-453b-9d67-c749f99ff0b9" width="300">
+<br><br>
+
+- Day Night
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e012b52a-b326-4c70-962f-91ee5e1c951f" width="300">
 <br><br>
 
 - Eat Sleep Code Repeat
@@ -549,6 +561,14 @@
 
 - Error 404
 <img src="https://user-images.githubusercontent.com/74038190/212897597-fd4c1add-ec1c-4669-9a8d-c37aaaf19044.gif" width="300">
+<br><br>
+
+- Code scroll
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0db32290-c193-4b32-95dc-413ce9e446a5" width="300">
+<br><br>
+
+- Making something delicious
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/36aaf561-01f0-4474-b33b-f31d2ec62ea4" width="300">
 <br><br>
 
 - 0-1 Binary Code
