@@ -559,6 +559,14 @@
 <img src="https://user-images.githubusercontent.com/74038190/214375888-0dc62524-fb43-43fd-9479-098b471d1b9c.gif" width="200">
 <br><br>
 
+- Hello there
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/5f6597b4-ff7c-4415-9272-d95759df842f" width="400">
+<br><br>
+
+- Smiley Bomb
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/315afd9b-24e5-4256-ba38-8da3616f7f5e" width="400">
+<br><br>
+
 - 9 to 5 Job
 <img src="https://user-images.githubusercontent.com/74038190/214375883-4dca62e9-afbe-4b40-8aec-02ca35d614df.gif" width="200">
 <br><br>
