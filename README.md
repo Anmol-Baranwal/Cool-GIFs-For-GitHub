@@ -265,14 +265,12 @@
 <br><br>
 
 - 3d Cool Statistics
-<div align="">
-   <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="400">
-   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400">
-</div>
-
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="400">
 <br><br>
 
-
+- Molecules dance
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400">
+<br><br>
 
 - Mr Robot
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
@@ -503,6 +501,10 @@
 
 - Mind
 <img src="https://user-images.githubusercontent.com/74038190/212284164-662b26f5-a2e4-49cb-b675-4af56e609afa.gif" width="300">
+<br><br>
+
+- Infinite Loop
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e8d30426-b3c1-4ae9-9bf1-15880afd93fd" width="300">
 <br><br>
 
 - Sketch Working Hard
