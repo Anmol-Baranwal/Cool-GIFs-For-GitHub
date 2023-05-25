@@ -469,6 +469,15 @@
 <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="200">
 <br><br>
 
+- Theme Style Animated GIFs
+<div align="">
+   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7f4fb7d4-5787-4f72-9a4d-9fb16d3cab39" width="200">
+   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bbda02a2-36d3-48ef-a3a8-41b0d17653d5" width="200">
+   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/324065af-8ea3-453a-83a3-66ccba5797fb" width="200">
+   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f24776c2-0bd1-456a-af11-b5fbf93ffb78" width="200">
+</div>
+<br><br>
+
 - Gradient Line
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 <br><br>
@@ -553,6 +562,10 @@
 
 - Penguin with suitcase
 <img src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" width="200">
+<br><br>
+
+- Hehe! I am working
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/95185e07-8f10-47db-85ae-b11c472f35ab" width="200">
 <br><br>
 
 - Tappity
@@ -841,6 +854,8 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2e0e9fbd-96f5-4ddb-b198-911c8f3d1ef1" width="160" />
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9ffcea75-ad3b-4ff9-b8b0-1ee4661ad4a7" width="160" />
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a28188da-2b7d-4d24-9381-2ce9b274d379" width="160" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/02d5a390-b263-43a4-981c-fbdc18c8b902" width="160" />
+
 <br><br> 
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
