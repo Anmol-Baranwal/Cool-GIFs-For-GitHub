@@ -197,12 +197,20 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff1b5f32-9420-4dde-b2b9-ed2c0aa17459" width="500">
 <br><br>
 
+- Perfect Loop
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
+<br><br>
+
 - Night Chill
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500">
 <br><br>
 
 - Modern Work Environment
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d" width="500">
+<br><br>
+
+- Cool Stats on Laptop
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="400">
 <br><br>
 
 - Find & Search
@@ -578,6 +586,10 @@
 
 - I am bored
 <img src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif" width="300">
+<br><br>
+
+- Yo welcome
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c552be39-25aa-4f5a-8421-54aa11f7131f" width="300">
 <br><br>
 
 - Cool Cats
