@@ -490,6 +490,11 @@
    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="75">&nbsp;
    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4503d891-510a-4ebd-94c4-ef8958a2e8d4" width="75">&nbsp;
    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp;
+   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c727c530-7192-4c94-b491-bb9f1502a5e6" width="75">&nbsp;
+   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="75">&nbsp;
+   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7cc5988c-f607-4d4f-ab01-360a4f9321eb" width="75">&nbsp;
+   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fc444250-07b6-49d5-848a-8b2f8ce62b0a" width="75">&nbsp;
+   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/47eb2734-addb-46da-b4dd-5e1616cd3853" width="75">&nbsp;
 </div>
 <br><br>
 
