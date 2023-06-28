@@ -213,6 +213,10 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d" width="500">
 <br><br>
 
+- Happy Smile while working
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/02293768-9242-47e1-bf8f-d084ba0a2d1d" width="500">
+<br><br>
+
 - Cool Stats on Laptop
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="400">
 <br><br>
