@@ -2,9 +2,8 @@
 
 # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; GIFs For Readme &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
-<!-- Forthebadge is temporarily down
 <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/built-with-love.svg" width="130" alt="made with love  markdown badge" ></a>  <a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/built-with-swag.svg" width="130" alt="made with swag markdown badge"></a> 
-<a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/open-source.svg" width="130" height="30" alt="open source  markdown badge"></a>  -->
+<a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/open-source.svg" width="130" height="30" alt="open source  markdown badge"></a>  
 <br><a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/made-with-markdown.svg" width="230" height="30" alt="made with markdown badge"></a> 
 </div>
 
@@ -18,10 +17,32 @@
 ---
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Menu ---------------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+# [Menu](#menu)
+- [Welcome](#welcome)
+- [Moving Logos](#moving-logos-)
+- [Animated Social Icons](#animated-social-media-icons-)
+- [Animated Emojis](#animated-emojis-)
+- [Animated Hello Banner](#animated-hello-)
+- [Build your own Octocat](#build-your-own-octocat-)
+- [Nice to Meet You Raw](#hello-nice-to-meet-you--)
+- [Work Culture (HD Visuals)](#work-culture-hd-visuals-)
+- [Extra Value Added](#extra-value-added-)
+- [Cute Working Stickers](#cute-working-stickers-)
+- [Awesome Banners](#awesome-banners-)
+- [Cool Avatars for GitHub Profile](#--cool-avatars-for-github-profile---)
+  
+<br>
+
+---
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Moving Logos -------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-## Moving Logos
+## Moving Logos [🔝](#--gifs-for-readme--)
   
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
@@ -52,7 +73,7 @@
 <!--- -- Animated Social Icons ----------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-## Animated Social Media Icons
+## Animated Social Media Icons [🔝](#--gifs-for-readme--)
 
 <img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="100"> <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="100">
@@ -73,7 +94,7 @@
 <!--- -- WOW Emojis ---------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-## Animated Emojis
+## Animated Emojis [🔝](#--gifs-for-readme--)
 
 > https://animated-fluent-emoji.vercel.app/
 
@@ -99,7 +120,7 @@
 <!--- -- Animated Hello in Multiple Languages -------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-## Animated Hello
+## Animated Hello [🔝](#--gifs-for-readme--)
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
 
@@ -107,7 +128,7 @@
 <!--- -- Octocat ------------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-## Build Your Own Octocat
+## Build Your Own Octocat [🔝](#--gifs-for-readme--)
 
 > https://myoctocat.com/build-your-octocat/
 
@@ -125,7 +146,7 @@
 <!--- -- Nice to Meet You ---------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-## Hello, Nice to Meet You !!
+## Hello, Nice to Meet You !! [🔝](#--gifs-for-readme--)
 
 ```
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
@@ -156,7 +177,7 @@
 <!--- -- Work Culture -------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-## Work Culture (HD Visuals)
+## Work Culture (HD Visuals) [🔝](#--gifs-for-readme--)
 
 - Multitasking
 <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="200">
@@ -448,7 +469,7 @@
 <!--- -- Extra Value Added --------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-## Extra Value Added
+## Extra Value Added [🔝](#--gifs-for-readme--)
 
 - Let's Catch
 <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
@@ -869,7 +890,7 @@
 <!--- -- Awesome Banners ----------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-## Awesome Banners
+## Awesome Banners [🔝](#--gifs-for-readme--)
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" />
 
@@ -883,7 +904,7 @@
 <!--- -- Cool Working Stickers ----------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-## Cute Working Stickers
+## Cute Working Stickers [🔝](#--gifs-for-readme--)
 
 <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="160" /><img src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" width="160" />
 <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="160" />
@@ -963,7 +984,7 @@
 
 <div align="center">
 
-# <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="120" /> &nbsp; Cool Avatars for GitHub Profile &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="120" />
+# <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="120" /> &nbsp; Cool Avatars for GitHub Profile &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="120" /> [🔝](#--gifs-for-readme--)
 
 <img src="https://user-images.githubusercontent.com/74038190/212259347-a485318e-d949-4b9f-9d38-35d0a566deb1.png" width="200" /><img src="https://user-images.githubusercontent.com/74038190/212262208-6e0cbfcb-1965-4b5e-9625-fee0a5d172d3.jpg" width="200" />
 <img src="https://user-images.githubusercontent.com/74038190/212259363-d40b7a35-375b-470c-b4e2-2d9cb8ac706c.png" width="200" />
@@ -1092,7 +1113,8 @@
 <!--- -- 💜 Thanks For Visiting --------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting [🔝](#--gifs-for-readme--)
 
 ### Please 🌟 this repository! It really helps others to find this!!  <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="25" />
 
+Your opinion matters! Feel free to create an issue or get in touch with [Anmol Baranwal](https://github.com/Anmol-Baranwal) if you have any feedback or suggestions.
